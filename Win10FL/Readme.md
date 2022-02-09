@@ -1,8 +1,8 @@
 # Windows10 Fake Login Screen
 
-Author: @HeadshotDeluxxe
-Version: Version 1.0
-Target:  Windows 10
+Author: @HeadshotDeluxxe <br>
+Version: Version 1.0 <br>
+Target:  Windows 10 <br>
 
 ## Description
 
